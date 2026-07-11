@@ -58,52 +58,5 @@ database:
 contact:
   email: srirambalaji770@gmail.com
   github: github.com/SRIRAM-B-CIT
+  linkedin: linkedin.com/in/sriram-balaji-be
   portfolio: sriram-b-cit.github.io/SRIRAM_PORTFOLIO
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,python,c,cpp,mysql,mongodb,firebase,git,github,vscode,linux" alt="Tech stack">
-</p>
-
----
-
-## 🚀 What I Do
-
-- Build full-stack web applications
-- Explore AI and cloud-based solutions
-- Create practical projects for students and real-world users
-- Learn and experiment with modern development tools
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:srirambalaji770@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-</a>
-
-<a href="https://github.com/SRIRAM-B-CIT">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-<a href="https://sriram-b-cit.github.io/SRIRAM_PORTFOLIO/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
-</a>
-
-</p>
-
-<div align="center">
-
-### “Building useful projects and learning every day.”
-
-</div>
