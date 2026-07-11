@@ -8,9 +8,9 @@
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="42%" valign="top" align="center">
 
-<img src="./assets/ascii-face.svg" width="100%" alt="ASCII face portrait of Sriram B">
+<img src="./assets/ascii-portrait-final.png" width="100%" alt="ASCII portrait of Sriram B">
 
 </td>
 <td width="58%" valign="top">
@@ -75,31 +75,12 @@ contact:
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Do
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SRIRAM-B-CIT&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM-B-CIT&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SRIRAM-B-CIT&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRIRAM-B-CIT&theme=github-compact&hide_border=true" alt="Contribution graph">
-
-</div>
+- Build full-stack web applications
+- Explore AI and cloud-based solutions
+- Create practical projects for students and real-world users
+- Learn and experiment with modern development tools
 
 ---
 
@@ -123,6 +104,6 @@ contact:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SRIRAM-B-CIT&label=Profile%20Views&style=flat-square" alt="Profile views">
+### “Building useful projects and learning every day.”
 
 </div>
