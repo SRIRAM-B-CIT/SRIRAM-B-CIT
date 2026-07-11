@@ -8,12 +8,12 @@
 
 <table>
 <tr>
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
-<img src="./assets/ascii-portrait.svg" width="100%" alt="ASCII portrait of Sriram B">
+<img src="./assets/ascii-face.svg" width="100%" alt="ASCII face portrait of Sriram B">
 
 </td>
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
 ```yaml
 name: Sriram B
