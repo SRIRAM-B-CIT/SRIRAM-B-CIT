@@ -1,8 +1,4 @@
-
-# Hi, I'm Sriram B 👋
-
-### Student Developer • Full-Stack Developer • AI Enthusiast
-
+## Hi, I'm Sriram B 👋 Student Developer • Full-Stack Developer • AI Enthusiast
 </div>
 
 <table>
@@ -66,24 +62,6 @@ contact:
 </table>
 
 ---
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,python,c,cpp,mysql,mongodb,firebase,git,github,vscode,linux" alt="Tech stack">
-</p>
-
----
-
-## 🚀 What I Do
-
-- Build full-stack web applications
-- Explore AI and cloud-based solutions
-- Create practical projects for students and real-world users
-- Learn and experiment with modern development tools
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -104,6 +82,23 @@ contact:
 </a>
 
 </p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,python,c,cpp,mysql,mongodb,firebase,git,github,vscode,linux" alt="Tech stack">
+</p>
+
+---
+
+## 🚀 What I Do
+
+- Build full-stack web applications
+- Explore AI and cloud-based solutions
+- Create practical projects for students and real-world users
+- Learn and experiment with modern development tools
+
+---
 
 <div align="center">
 
